@@ -1,3 +1,3 @@
 # Dynamic Models
 
-[tianhao](https://apollon.ase.in.tum.de/wgv0AkMWc0mXo0UsrhyJ?view=COLLABORATE)
+[2.1](https://apollon.ase.in.tum.de/wgv0AkMWc0mXo0UsrhyJ?view=COLLABORATE)
