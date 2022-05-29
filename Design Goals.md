@@ -1,0 +1,13 @@
+# Design Goals
+- All parts of  an interaction in 3 clicks or less
+- It should run smoothly with a bandwidth of 2Mbps
+- Should conform to Nielsen’s usability heuristics:
+- APIs should be used
+- Drop down menus for all text inputs
+- Calendar boxes for date inputs
+- Prices should be colored based on average price of route comparison
+- Directing to airline websites to buy tickets should take no more than 30 seconds
+- The user should always be notified when he/she is expected to wait/something is loading
+- Users should be notified of their flight information after purchasing a ticket
+- Only redirect to websites with SSL certificates for buying tickets
+- Flight data, including Terms and Conditions, should always be available in English
